@@ -1,0 +1,3 @@
+input_filename: 'Selected_Top_KW.xlsx'
+output_filename: 'TextAnalytics_Report.xlsx'
+target_column: 'keywords_2'
